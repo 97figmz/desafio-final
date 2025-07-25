@@ -18,7 +18,12 @@ body {
  
 }
 
-
+#estudios {
+  color:black;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
 
 /* Mis trabajos */
 
