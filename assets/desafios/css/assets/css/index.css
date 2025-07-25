@@ -1,0 +1,78 @@
+ .claseheader {
+  background: 
+    url("https://media.istockphoto.com/id/922902212/es/foto/vintage-toys.jpg?s=612x612&w=0&k=20&c=OcauTheTNr1kuNszb-Ze3ZMe722S9yeJVSN8P2JCUFo=");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px 0;
+  font-size: 70px;
+  color: chartreuse;
+  text-align: center;}  
+   
+   
+   
+   
+   
+   
+.subtitulo{
+    font-style: oblique;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+    
+.descripcion{
+   
+  text-align: center;
+  vertical-align: middle;
+  font-size: 24px;
+  padding: 10px;
+
+}
+.precio {
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+  font-size: 24px;
+}
+  
+
+
+
+.juguetes img {
+  width: 300px; 
+  object-fit: cover;
+ padding-bottom: 70px;
+ display: block;
+    
+}
+
+
+
+.productos
+
+    {
+ background-color: aqua;
+  padding: 20px 2%;
+  text-align: justify;
+  font-size: 30px;
+  color: rgb(1, 1, 39);
+  padding-bottom: 50px;
+}
+       
+        
+
+.catalogo {
+  border-collapse: separate;
+  border-spacing: 0px 40px;}
+
+  .footer{
+    background-color: aqua;
+    padding: 30px;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(0, 0, 50);
+
+
+
+  }
